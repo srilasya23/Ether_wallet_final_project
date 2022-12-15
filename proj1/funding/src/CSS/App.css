@@ -1,0 +1,22 @@
+.trans{
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+.btn{
+  margin: 0 10px;
+}
+.card-body{
+  height: 55.3vh;
+  margin-top: 15%;
+}
+.card-header{
+  display: flex;
+  justify-content: space-between;
+}
+.Title{
+  text-align: center;
+  font-weight: 900;
+  font-size: 40px;
+  text-shadow: 2px 2px 5px 5px gray;
+}
